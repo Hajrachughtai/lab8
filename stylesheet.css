@@ -1,0 +1,50 @@
+body{
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    background: linear-gradient(#ffe6f2, #ffd6ea);
+    padding: 40px;
+}
+
+h1 {
+    color: #d63384;
+}
+
+.card{
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 380px;
+    margin: auto;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    border: 3px solid #ffb3d9;
+}
+
+#cover {
+    width: 100%;
+    border-radius: 14px;
+    margin-bottom:12px;
+}
+
+button {
+    padding: 12px 20px;
+    background: #ff66b3;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 25px;
+
+}
+
+.flowerImg {
+    width: 220px;
+    border-radius: 15px;
+    margin-top: 10px;
+    border: 2px solid #ffb3d9;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+button:hover {
+    background: #e0559d;
+
+}
